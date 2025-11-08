@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">Hi 👋, I'm <span style="color:#d19f01;">Lalitha Priya Bijja</span></h2>
-<h4 align="center">⚡ A Data Analyst & AI Enthusiast on a Magical Journey ⚡</h4>
+<h4 align="center">⚡ A Machine Learning Engineer and a DataScientist on a Magical Journey ⚡</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lalithap07&label=Profile%20views&color=brightgreen&style=flat" alt="lalithap07" />
